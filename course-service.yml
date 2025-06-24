@@ -12,8 +12,8 @@ spring:
       ddl-auto: update      # Auto schema update (not recommended for prod)
     show-sql: true
 
-server:
-  port: 9097
+server: 9092
+  port: 9092
 
 eureka:
   client:
