@@ -37,7 +37,7 @@ management:
 info:
   app:
     name: "video-service"
-    description:  "This is video service"
+    description:  "This is video service ha ha"
     version: "1.0"
 #
 #
