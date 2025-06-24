@@ -1,6 +1,6 @@
 
 server:
-  port: 9095
+  port: 9093
 spring:
 #  cloud:
 #    openfeign:
